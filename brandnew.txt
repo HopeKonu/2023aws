@@ -4,3 +4,6 @@ skirts
 hats
 shoes
 socks
+boots
+suits
+sweaters
